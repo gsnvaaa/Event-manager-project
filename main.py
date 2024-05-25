@@ -1,7 +1,7 @@
 from entities.event_manager import EventManager
 from entities.report_manager import ReportManager
 from menu import Menu
-from helpers.helpers import Helpers  # Updated import
+from helpers.helpers import Helpers  
 
 if __name__ == "__main__":
     event_manager = EventManager()
